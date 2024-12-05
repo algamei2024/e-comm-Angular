@@ -1,0 +1,237 @@
+{
+  "seller": [
+    {
+      "id": "bdb1",
+      "name": "Mohmmed",
+      "password": "jjjjj",
+      "email": "m.algamei20249@gmail.com"
+    },
+    {
+      "id": "3b4e",
+      "name": "Mohammed",
+      "password": "yyyyyyyyyyy",
+      "email": "m.developercodetage@gmail.com"
+    },
+    {
+      "id": "b65b",
+      "name": "Mohmmed",
+      "password": "fffff",
+      "email": "m.algamei202@gmail.com"
+    },
+    {
+      "id": "1c5c",
+      "name": "Mohmmed",
+      "password": "bbbbbbb",
+      "email": "Zakaria@gmail.com"
+    },
+    {
+      "id": "57e2",
+      "name": "Mohammed",
+      "password": "jjjjjjjjjjj",
+      "email": "m.algamei2024@gmail.com"
+    },
+    {
+      "id": "3bd5",
+      "name": "Mohammed",
+      "password": "jjjjjjjj",
+      "email": "m.algamei20@gmail.com"
+    },
+    {
+      "id": "4370",
+      "name": "Mohammed",
+      "password": "jjjjjjjj",
+      "email": "m.algamei20@gmail.com"
+    },
+    {
+      "id": "4fbc",
+      "name": "Mohammed",
+      "password": "jjjjjjjj",
+      "email": "m.algamei20@gmail.com"
+    },
+    {
+      "id": "4282",
+      "name": "Mohammed",
+      "password": "jjj",
+      "email": "m.algamei20@gmail.com"
+    },
+    {
+      "id": "17d0",
+      "name": "Mohammed",
+      "password": "jjjjjjjj",
+      "email": "m.algamei20@gmail.com"
+    },
+    {
+      "id": "2bdd",
+      "name": "Mohammed",
+      "password": "jjjjjjjj",
+      "email": "m.algamei20@gmail.com"
+    },
+    {
+      "id": "fba3",
+      "name": "Mohammed",
+      "password": "jjj",
+      "email": "m.algamei20@gmail.com"
+    },
+    {
+      "id": "6a99",
+      "name": "Mohammed",
+      "password": "",
+      "email": "m.algamei20@gmail.com"
+    },
+    {
+      "id": "c1b5",
+      "name": "Mohammed",
+      "password": "jjj",
+      "email": "m.algamei20@gmail.com"
+    },
+    {
+      "id": "0a5a",
+      "name": "Mohammed",
+      "password": "",
+      "email": "m.algamei20@gmail.com"
+    },
+    {
+      "id": "8997",
+      "name": "Mohammed",
+      "password": "",
+      "email": "m.algamei20@gmail.com"
+    },
+    {
+      "id": "d20d",
+      "name": "Mohammed",
+      "password": "",
+      "email": "m.algamei20@gmail.com"
+    },
+    {
+      "id": "07ea",
+      "name": "Mohammed",
+      "password": "",
+      "email": "m.algamei20@gmail.com"
+    },
+    {
+      "id": "bcb5",
+      "name": "Mohammed",
+      "password": "",
+      "email": "m.algamei20@gmail.com"
+    },
+    {
+      "id": "183d",
+      "name": "Mohammed",
+      "password": "",
+      "email": "m.algamei20@gmail.com"
+    },
+    {
+      "id": "31e4",
+      "name": "Mohammed",
+      "password": "",
+      "email": "m.algamei20@gmail.com"
+    },
+    {
+      "id": "625d",
+      "name": "Mohammed",
+      "password": "",
+      "email": "m.algamei20@gmail.com"
+    },
+    {
+      "id": "6326",
+      "name": "Mohammed",
+      "password": "",
+      "email": "m.algamei20@gmail.com"
+    },
+    {
+      "id": "ab81",
+      "name": "Mohammed",
+      "password": "",
+      "email": "m.algamei20@gmail.com"
+    },
+    {
+      "id": "a473",
+      "name": "Mohammed",
+      "password": "",
+      "email": "m.algamei20@gmail.com"
+    }
+  ],
+  "products": [
+    {
+      "name": "iphone 14",
+      "price": "500",
+      "category": "mobile",
+      "color": "white",
+      "description": "this is from apple",
+      "image": "https://th.bing.com/th/id/OIP.WJgG0-v1zkdtxP0L07G_BgHaJP?rs=1&pid=ImgDetMain",
+      "id": "8ba8"
+    },
+    {
+      "name": "samsung 14",
+      "price": "500",
+      "category": "mobile",
+      "color": "black",
+      "description": "this is from samsung",
+      "image": "https://th.bing.com/th/id/OIP.WJgG0-v1zkdtxP0L07G_BgHaJP?rs=1&pid=ImgDetMain",
+      "id": "2e78"
+    },
+    {
+      "name": "samsung 14",
+      "price": "500",
+      "category": "mobile",
+      "color": "red",
+      "description": "",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdxso5x8Pgwk2QL6h6H7gED9TrGvM8WAfmIA&s",
+      "id": "6afa"
+    },
+    {
+      "id": "2cd8",
+      "name": "samsung m 40",
+      "price": "500",
+      "category": "mobile",
+      "color": "red",
+      "description": "",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh-2kUyV_hDMZf0LnlGSRSHKVU8VbwlE1z3g&s"
+    },
+    {
+      "id": "9a7a",
+      "name": "samsung 14",
+      "price": "500",
+      "category": "mobile",
+      "color": "red",
+      "description": "",
+      "image": "https://th.bing.com/th/id/OIP.WJgG0-v1zkdtxP0L07G_BgHaJP?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "7bb7",
+      "name": "samsung 14",
+      "price": "500",
+      "category": "mobile",
+      "color": "red",
+      "description": "",
+      "image": "https://th.bing.com/th/id/OIP.WJgG0-v1zkdtxP0L07G_BgHaJP?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "aa07",
+      "name": "samsung 14",
+      "price": "500",
+      "category": "mobile",
+      "color": "red",
+      "description": "",
+      "image": "https://th.bing.com/th/id/OIP.WJgG0-v1zkdtxP0L07G_BgHaJP?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "e718",
+      "name": "samsung 14",
+      "price": "500",
+      "category": "mobile",
+      "color": "red",
+      "description": "",
+      "image": "https://th.bing.com/th/id/OIP.WJgG0-v1zkdtxP0L07G_BgHaJP?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "09e7",
+      "name": "samsung 14",
+      "price": "500",
+      "category": "mobile",
+      "color": "red",
+      "description": "",
+      "image": "https://th.bing.com/th/id/OIP.WJgG0-v1zkdtxP0L07G_BgHaJP?rs=1&pid=ImgDetMain"
+    }
+  ]
+}

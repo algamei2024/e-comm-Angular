@@ -1,0 +1,49 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    font-family: sans-serif;
+
+}
+
+.container {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.common-form{
+display: flex;
+width: 300px;
+flex-direction: column;
+margin: auto;
+}
+.form-input{
+height:35px;
+margin-bottom: 20px;
+border: 1px solid blueviolet;
+padding-left: 15px;
+color: blueviolet;
+}
+.form-button{
+height: 35px;
+border: 1px solid blueviolet;
+color: blueviolet;
+}
+//حق الاخطارات
+.message-p {
+    color: green;
+    text-align: center;
+}
+/* Importing Bootstrap SCSS file. */
+@import 'bootstrap/scss/bootstrap';
+
+.nav *::after, .nav *::before{
+    background-color: red;
+    box-sizing: revert !important;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon{
+    background-color: black;
+}
+.carousel-caption{
+    background-color: rgba(120, 167, 110, 0.582);
+    border-radius: 5px;
+}
